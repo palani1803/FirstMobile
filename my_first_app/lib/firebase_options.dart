@@ -46,6 +46,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '577942357322',
     projectId: 'my-first-app-27cc7',
     authDomain: 'my-first-app-27cc7.firebaseapp.com',
+    databaseURL: 'https://my-first-app-27cc7-default-rtdb.firebaseio.com',
     storageBucket: 'my-first-app-27cc7.firebasestorage.app',
     measurementId: 'G-X85X6FQNF6',
   );
@@ -55,6 +56,7 @@ class DefaultFirebaseOptions {
     appId: '1:577942357322:android:00cc67f708c59a3980adb3',
     messagingSenderId: '577942357322',
     projectId: 'my-first-app-27cc7',
+    databaseURL: 'https://my-first-app-27cc7-default-rtdb.firebaseio.com',
     storageBucket: 'my-first-app-27cc7.firebasestorage.app',
   );
 
